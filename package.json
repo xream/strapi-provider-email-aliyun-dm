@@ -1,6 +1,6 @@
 {
   "name": "strapi-provider-email-aliyun-dm",
-  "version": "1.0.0",
+  "version": "3.0.0-beta.20.3",
   "description": "Aliyun dm provider for strapi email plugin",
   "keywords": [
     "email",
@@ -18,20 +18,5 @@
   "strapi": {
     "isProvider": true
   },
-  "author": {
-    "email": "xreamxu@gmail.com",
-    "name": "Hsiaoyi Hsu"
-  },
-  "maintainers": [{
-    "name": "Hsiaoyi Hsu",
-    "email": "xreamxu@gmail.com"
-  }],
-  "engines": {
-    "node": ">=10.0.0",
-    "npm": ">=6.0.0"
-  },
-  "license": "MIT",
-  "scripts": {
-    "test": "echo \"no tests yet\""
-  }
+  "license": "MIT"
 }
