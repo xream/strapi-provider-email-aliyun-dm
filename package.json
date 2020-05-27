@@ -1,6 +1,6 @@
 {
   "name": "strapi-provider-email-aliyun-dm",
-  "version": "3.0.0-beta.20.3",
+  "version": "3.0.0",
   "description": "Aliyun dm provider for strapi email plugin",
   "keywords": [
     "email",
