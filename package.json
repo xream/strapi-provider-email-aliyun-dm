@@ -18,5 +18,9 @@
   "strapi": {
     "isProvider": true
   },
-  "license": "MIT"
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/xream/strapi-provider-email-aliyun-dm.git"
+  }
 }
